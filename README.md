@@ -3,7 +3,7 @@ A collections of must-read AI-related papers.
 
 I read a lot of papers that now I think I should keep track of them. In this list, I list papers that I think are important in AI/ML/DL (and even other topics).
 
-Disclaimer: the list is totally opinion-based and does not mean "you should read X and should not read Y". Mostly, the papers are rated based on the idea and impact rather than the SOTA leaderboard and conference/journal they are published.
+Disclaimer: the list is totally opinion-based and does not mean "you should read X and should not read Y". Mostly, the papers are rated based on the idea and impact rather than the SOTA leaderboard and the conference/journal they are published in. Yes, number of citations is not rated.
 
 Note: the year is noted as the lastest version on arXiv/OpenReview.
 
