@@ -7,6 +7,8 @@ Disclaimer: the list is totally opinion-based and does not mean "you should read
 
 Note: the year is noted as the lastest version on arXiv/OpenReview.
 
+**SUGGESTIONS ARE WELCOME**. Create a pull request, issue, or drop me a message on LinkedIn or email (link on my main profile). Note that I do not promote papers, so I will not response to messages like "Hey my method is novel, can you add it?". I am open to discussions and collaborations.
+
 ## AI/ML/DL Topics
 - [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560) (Henderson et al., 2019): an important paper in RL. It compares algorithms using multiple seeds (I mean, *multiple*), and gives advices how to conduct RL research and experiments.
 - [How Many Random Seeds? Statistical Power Analysis in Deep Reinforcement Learning Experiments](https://arxiv.org/abs/1806.08295) (Colas et al., 2018): how many seeds you use to express statistical significance in RL? 5? 10? 20? This paper explains why, from a statistical view.
