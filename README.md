@@ -19,7 +19,15 @@ Note: the year is noted as the lastest version on arXiv/OpenReview.
 - [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/abs/2006.05990) (Andrychowicz et al., 2020): advices about how to choose hyperparameters for PPO on continuous control task. Although useful, but I think this paper is limited to the tasks it evaluates.
 - [Action Space Shaping in Deep Reinforcement Learning](https://arxiv.org/abs/2004.00980) (Kanervisto et al., 2020): how to shape your action space? Should it `(1, 6)` or `(2, 3)` or `(3, 2)`?
 - [A Closer Look at Invalid Action Masking in Policy Gradient Algorithms](https://arxiv.org/abs/2006.14171) (Huang and Ontañón, 2020): usually we give a big negative reward if the agent makes an invalid action (for example, a chess piece moves left and gets out of the board), but that is totally a naive workaround: say, doing so may make the agent thinks that action is very bad (moving left) instead of invalid (out of the board).
+- [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162.pdf) (also [blog](https://openai.com/blog/science-of-ai/)) (McCandlish et al., 2018): a paper that surveys and explains large batch size training in AI. Batch size speeds up training and reduces variance, so this is a must-read one!
+- [Writing Great Reward Functions - Bonsai](https://www.youtube.com/watch?v=0R3PnJEisqk) (Bonsai, 2017): reward function plays an imporant role on how the agent learns. Be careful what you give them!
 
+## Blog posts and others
+- [Competing in the Obstacle Tower Challenge](https://blog.aqnichol.com/2019/07/24/competing-in-the-obstacle-tower-challenge/): A very interesting blog that tells why entropy should not be included in the loss calculation, why RNN-based network fails in RL, and more!
+- [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html): why RL is so *damn* hard? This blog explains possible reasons why RL does not work yet, despite breaking news about RL in recent years.
+- [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html): a short blog explains why in RL, approx KL divergence is enough, instead of calculating true KL.
+- [Machine Learning in Physics resources](https://www.reddit.com/r/MachineLearning/comments/nbdoc6/p_machine_learning_in_physics/gxytad4?utm_source=share&utm_medium=web2x&context=3) (ChrisRackauckas): an extremely detailed collection of resources about ML in Physics. I am overwhelmed by his effort typing this answer!
 
 ## Other Topics
 - [BOLA: Near-Optimal Bitrate Adaptation for Online Videos](https://arxiv.org/pdf/1601.06748.pdf): determine the near-optimal video quality based on your network speed!
+- [How to Design for Color Blindness](https://www.getfeedback.com/resources/ux/how-to-design-for-color-blindness/)
