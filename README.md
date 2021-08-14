@@ -32,6 +32,7 @@ Note: the year is noted as the lastest version on arXiv/OpenReview.
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html): why RL is so *damn* hard? This blog explains possible reasons why RL does not work yet, despite breaking news about RL in recent years.
 - [Approximating KL Divergence](http://joschu.net/blog/kl-approx.html): a short blog explains why in RL, approx KL divergence is enough, instead of calculating true KL.
 - [Machine Learning in Physics resources](https://www.reddit.com/r/MachineLearning/comments/nbdoc6/p_machine_learning_in_physics/gxytad4?utm_source=share&utm_medium=web2x&context=3) (ChrisRackauckas): an extremely detailed collection of resources about ML in Physics. I am overwhelmed by his effort typing this answer!
+- [A collection of failed RL algorithms](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
 
 ## Other Topics
 - [BOLA: Near-Optimal Bitrate Adaptation for Online Videos](https://arxiv.org/pdf/1601.06748.pdf): determine the near-optimal video quality based on your network speed!
