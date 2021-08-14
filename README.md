@@ -21,6 +21,11 @@ Note: the year is noted as the lastest version on arXiv/OpenReview.
 - [A Closer Look at Invalid Action Masking in Policy Gradient Algorithms](https://arxiv.org/abs/2006.14171) (Huang and Ontañón, 2020): usually we give a big negative reward if the agent makes an invalid action (for example, a chess piece moves left and gets out of the board), but that is totally a naive workaround: say, doing so may make the agent thinks that action is very bad (moving left) instead of invalid (out of the board).
 - [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162.pdf) (also [blog](https://openai.com/blog/science-of-ai/)) (McCandlish et al., 2018): a paper that surveys and explains large batch size training in AI. Batch size speeds up training and reduces variance, so this is a must-read one!
 - [Writing Great Reward Functions - Bonsai](https://www.youtube.com/watch?v=0R3PnJEisqk) (Bonsai, 2017): reward function plays an imporant role on how the agent learns. Be careful what you give them!
+- Critizing Neural Architecture Search (NAS) and explaining why Randomness just performs equally good.
+  - [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638) (Li and Talwalkar, 2019), 
+  - [Pitfalls in Machine Learning Research: Reexamining the Development Cycle](http://proceedings.mlr.press/v137/biderman20a/biderman20a.pdf) (Biderman and Scheirer, 2020), 
+  - [Local Search is a Remarkably Strong Baseline for Neural Architecture Search](https://arxiv.org/abs/2004.08996) (Ottelander et al., 2020)
+  
 
 ## Blog posts and others
 - [Competing in the Obstacle Tower Challenge](https://blog.aqnichol.com/2019/07/24/competing-in-the-obstacle-tower-challenge/): A very interesting blog that tells why entropy should not be included in the loss calculation, why RNN-based network fails in RL, and more!
