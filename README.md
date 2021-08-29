@@ -11,6 +11,7 @@ Note: the year is noted as the lastest version on arXiv/OpenReview.
 
 ## AI/ML/DL Topics
 - [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560) (Henderson et al., 2019): an important paper in RL. It compares algorithms using multiple seeds (I mean, *multiple*), and gives advices how to conduct RL research and experiments.
+- [Implementation Matters in Deep RL: A Case Study on PPO and TRPO](https://openreview.net/forum?id=r1etN1rtPB) (Engstorm et al., 2020): a study how code-level optimization in deep RL can significantly change results.
 - [How Many Random Seeds? Statistical Power Analysis in Deep Reinforcement Learning Experiments](https://arxiv.org/abs/1806.08295) (Colas et al., 2018): how many seeds you use to express statistical significance in RL? 5? 10? 20? This paper explains why, from a statistical view.
 - [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864) (Su et al., 2021): a rotary positional encoding technique that researchers at EleutherAI found a [significant improvement in performance](https://blog.eleuther.ai/rotary-embeddings/).
 - [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) (Wang and Raj, 2017): ever wonder when, why and how DL emerges? This one got you covered!
