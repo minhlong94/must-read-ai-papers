@@ -26,9 +26,10 @@ Note: the year is noted as the lastest version on arXiv/OpenReview.
   - [Random Search and Reproducibility for Neural Architecture Search](https://arxiv.org/abs/1902.07638) (Li and Talwalkar, 2019), 
   - [Pitfalls in Machine Learning Research: Reexamining the Development Cycle](http://proceedings.mlr.press/v137/biderman20a/biderman20a.pdf) (Biderman and Scheirer, 2020), 
   - [Local Search is a Remarkably Strong Baseline for Neural Architecture Search](https://arxiv.org/abs/2004.08996) (Ottelander et al., 2020)
-  - [The Risk of Invariant Risk Minimization](https://openreview.net/forum?id=BbNIbVPJ-42): why IRM fails to deliver what it promises. 
-  - [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434): a comprehensive benchmark of domain generalization algorithm. Overall, ERM works good in practice.
-  - [Descending through a Crowded Valley](https://arxiv.org/abs/2007.01547): a comprehensive benchmark of optimizers and LR schedulers to support that Adam is still very competitive.
+- [The Risk of Invariant Risk Minimization](https://openreview.net/forum?id=BbNIbVPJ-42): why IRM fails to deliver what it promises. 
+- [In Search of Lost Domain Generalization](https://arxiv.org/abs/2007.01434): a comprehensive benchmark of domain generalization algorithm. Overall, ERM works good in practice.
+- [Descending through a Crowded Valley](https://arxiv.org/abs/2007.01547): a comprehensive benchmark of optimizers and LR schedulers to support that Adam is still very competitive.
+- [Simple random search provides a competitive approach to reinforcement learning](https://arxiv.org/abs/1803.07055): you don't need complicated algorithm. Randomness is enough!
   
 
 ## Blog posts and others
