@@ -35,6 +35,7 @@ Note: the year is noted as the lastest version on arXiv/OpenReview.
 - [Machine Learning in Physics resources](https://www.reddit.com/r/MachineLearning/comments/nbdoc6/p_machine_learning_in_physics/gxytad4?utm_source=share&utm_medium=web2x&context=3) (ChrisRackauckas): an extremely detailed collection of resources about ML in Physics. I am overwhelmed by his effort typing this answer!
 - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl) (Amid Fish): a blog post told how the author tried to reproduce a paper's result, and turned out it was (A LOT) harder than he expected.
 - [A collection of failed RL algorithms](https://docs.google.com/spreadsheets/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
+- [Visualizing the Attention mechanism](https://peltarion.com/blog/data-science/self-attention-video)
 
 ## Other Topics
 - [BOLA: Near-Optimal Bitrate Adaptation for Online Videos](https://arxiv.org/pdf/1601.06748.pdf): determine the near-optimal video quality based on your network speed!
